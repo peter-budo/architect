@@ -5,7 +5,7 @@ Architect
 
 What I want to achieve
 ========================
-1. At the moment project would have to be forked to get access to Architect build.gradle (maybe in future there will be way to say 'fetch from URL and execute' or maybe execute remote build.gradle)
+1. At the moment project would have to be cloned to get access to Architect build.gradle (maybe in future there will be way to say 'fetch from URL and execute' or maybe execute remote build.gradle)
 2. Execute
 ````
 gradle OPTION -Plocation=$HOME/GITHUB -Pname=PROJECT_NAME -Ppackage=COM.MYPACKAGE.NAME -Pversion=0.0.1-SNAPSHOT
