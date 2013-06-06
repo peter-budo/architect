@@ -13,6 +13,6 @@ gradle OPTION -Plocation=$HOME/GITHUB -Pname=PROJECT_NAME -Ppackage=COM.MYPACKAG
 
 3. This should execute build.gradle for given `OPTION` project or library
 4. Create new directory in location `$HOME/GITHUB` with name `PROJECT_NAME`
-5. Copy folder structure under given `OPTION` sample
+5. Copy folder structure under given `OPTION` sample for **project** or **library**
 6. Create package structure inside `src` directory and move initial java files there
 7. Substitute temporary space holders in files, example package in AndroidManifest.xml
