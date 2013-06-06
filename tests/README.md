@@ -1,0 +1,1 @@
+Tests to verify that final build structure includes all desired files and directories
